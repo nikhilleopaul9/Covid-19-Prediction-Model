@@ -4,7 +4,7 @@ The goal of this repository is to create a standardized set of data on forecasts
 # Overview
 **Data:** The John Hopkins University Dataset has been used for the modeling which has been directly extracted the Github repository CSSEGISandData.
 
-Proper **EDA** has been performed for the total numnber of cases, deaths and recoveries followed by Country wise EDA.
+Proper **EDA** has been performed for the total number of cases, deaths and recoveries followed by Country wise EDA.
 
 **Machine Learning Algorithms Used: SVR, Polynomial Regression, Ridge Regression,Facebook Prophet, Kalman Filter.**
 
