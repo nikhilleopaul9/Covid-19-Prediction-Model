@@ -13,3 +13,7 @@ Proper **EDA** has been performed for the total number of cases, deaths and reco
 
 ## **Screenshots**
 
+![Screenshot 2020-06-19 at 9 34 40 PM](https://user-images.githubusercontent.com/49313619/85154409-0ac7b780-b275-11ea-91ca-dc4732fc9500.png)
+![Predictions](https://user-images.githubusercontent.com/49313619/85154437-13b88900-b275-11ea-8e1c-ba2be8ae4fde.png)
+
+
