@@ -6,9 +6,9 @@ The goal of this repository is to create a standardized set of data on forecasts
 
 Proper **EDA** has been performed for the total number of cases, deaths and recoveries followed by Country wise EDA.
 
-**Machine Learning Algorithms Used: ARIMA, Polynomial Regression, Holt's Linear Trend Model,Facebook Prophet, Kalman Filter.**
+##**Machine Learning Algorithms Used: ARIMA, Polynomial Regression, Holt's Linear Trend Model,Facebook Prophet, Kalman Filter.**
 
-**Deep Learning Models Used: DNN, Vanilla LSTM, Stacked LSTM, Bidirectional LSTM, CNN LSTM.**
+##**Deep Learning Models Used: DNN, Vanilla LSTM, Stacked LSTM, Bidirectional LSTM, CNN LSTM.**
 
 **Screenshots**
 
